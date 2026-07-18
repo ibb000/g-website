@@ -59,6 +59,16 @@
       "external_url": "https://www.behance.net/gallery/205364191/LipoFlow-inc-Branding",
       "is_active": true,
       "sort_order": 6
+    },
+    {
+      "id": "mrqsol471vuh",
+      "title": "LIPOFLOW - MEDICAL",
+      "category": "SOCIAL MEDIA DESIGNING",
+      "cover_url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/55d0aa205477619.66bb9eed06ea3.png",
+      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
+      "external_url": "https://www.behance.net/gallery/205477619/Lipoflow-social-media-posts",
+      "is_active": true,
+      "sort_order": 7
     }
   ],
   "team": [
