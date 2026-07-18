@@ -1,53 +1,43 @@
 {
   "projects": [
     {
-      "id": "proj_001",
-      "title": "Genie Studio 2025 Rebrand",
-      "category": "Rebranding · Identity",
-      "cover_url": "",
-      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
-      "external_url": "https://www.behance.net/gallery/236725941/Genie-Studio-Rebranding",
-      "sort_order": 1,
-      "is_active": true
-    },
-    {
       "id": "proj_002",
       "title": "StoryLingo Learning App",
-      "category": "Branding · App UI",
+      "category": "Branding Â· App UI",
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #0077B6 0%, #023E8A 100%)",
       "external_url": "https://www.behance.net/gallery/227018097/Storylingo-Learning-app-branding",
-      "sort_order": 2,
+      "sort_order": 1,
       "is_active": true
     },
     {
       "id": "proj_003",
       "title": "Dental Care Corp",
-      "category": "Social Media · Art Direction",
+      "category": "Social Media Â· Art Direction",
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #0096C7 0%, #005F73 100%)",
       "external_url": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio",
-      "sort_order": 3,
+      "sort_order": 2,
       "is_active": true
     },
     {
       "id": "proj_004",
       "title": "El-Broker Podcast",
-      "category": "Visual Brand · Podcast",
+      "category": "Visual Brand Â· Podcast",
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #003049 0%, #001524 100%)",
       "external_url": "https://www.behance.net/gallery/240281443/EL-BROKER-Podcast-Visual-Branding",
-      "sort_order": 4,
+      "sort_order": 3,
       "is_active": true
     },
     {
       "id": "proj_005",
       "title": "Masar Real Estate Website",
-      "category": "Web · E-commerce · Dashboard",
+      "category": "Web Â· E-commerce Â· Dashboard",
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #004E89 0%, #002147 100%)",
       "external_url": "https://masarrealestate.com/",
-      "sort_order": 5,
+      "sort_order": 4,
       "is_active": true
     }
   ],
@@ -99,7 +89,7 @@
     },
     {
       "id": "test_003",
-      "quote": "From the website to the social media direction — every touchpoint felt cohesive, polished, and exactly what we needed to stand out.",
+      "quote": "From the website to the social media direction â every touchpoint felt cohesive, polished, and exactly what we needed to stand out.",
       "client_name": "Client Name",
       "client_title": "Marketing Director",
       "sort_order": 3,
