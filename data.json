@@ -49,6 +49,16 @@
       "external_url": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio",
       "is_active": true,
       "sort_order": 5
+    },
+    {
+      "id": "mrqslokanvc2",
+      "title": "LIPOFLOW - MEDICAL",
+      "category": "BRANDING PROJECT",
+      "cover_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/95e258205359975.66b9f3443a2c0.png",
+      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
+      "external_url": "https://www.behance.net/gallery/205364191/LipoFlow-inc-Branding",
+      "is_active": true,
+      "sort_order": 6
     }
   ],
   "team": [
