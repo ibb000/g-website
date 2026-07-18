@@ -39,6 +39,16 @@
       "external_url": "https://dentalcarecorp.com/",
       "is_active": true,
       "sort_order": 4
+    },
+    {
+      "id": "mrqshajaid6c",
+      "title": "DENTAL CARE CORP - DENTAL IMPLANTS",
+      "category": "SOCIAL MEDIA DESIGNING",
+      "cover_url": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/5fec46229223247.Y3JvcCwxNDUyLDExMzYsMjUsMA.png",
+      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
+      "external_url": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio",
+      "is_active": true,
+      "sort_order": 5
     }
   ],
   "team": [
