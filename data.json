@@ -1,23 +1,13 @@
 {
   "projects": [
     {
-      "id": "proj_003",
-      "title": "Dental Care Corp",
-      "category": "Social Media Â· Art Direction",
-      "cover_url": "",
-      "gradient": "linear-gradient(135deg, #0096C7 0%, #005F73 100%)",
-      "external_url": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio",
-      "sort_order": 1,
-      "is_active": true
-    },
-    {
       "id": "proj_004",
       "title": "El-Broker Podcast",
       "category": "Visual Brand Â· Podcast",
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #003049 0%, #001524 100%)",
       "external_url": "https://www.behance.net/gallery/240281443/EL-BROKER-Podcast-Visual-Branding",
-      "sort_order": 2,
+      "sort_order": 1,
       "is_active": true
     },
     {
@@ -27,7 +17,7 @@
       "cover_url": "",
       "gradient": "linear-gradient(135deg, #004E89 0%, #002147 100%)",
       "external_url": "https://masarrealestate.com/",
-      "sort_order": 3,
+      "sort_order": 2,
       "is_active": true
     }
   ],
