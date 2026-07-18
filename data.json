@@ -79,6 +79,16 @@
       "external_url": "https://www.behance.net/gallery/228095909/Motorex-Social-Media-Folio",
       "is_active": true,
       "sort_order": 8
+    },
+    {
+      "id": "mrqsy1fj4qji",
+      "title": "Coodies - AMRICAN MADE HOODIES",
+      "category": "BRANDING PROJECT",
+      "cover_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/5652d4215050477.67632e83aefbf.gif",
+      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
+      "external_url": "https://www.behance.net/gallery/215050477/Coodies-branding",
+      "is_active": true,
+      "sort_order": 9
     }
   ],
   "team": [
