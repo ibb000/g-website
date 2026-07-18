@@ -29,6 +29,16 @@
       "external_url": "https://www.behance.net/gallery/227492517/Uni-implant-branding",
       "is_active": true,
       "sort_order": 3
+    },
+    {
+      "id": "mrqsfuyrdcgt",
+      "title": "DENTAL CARE CORP - DENTAL IMPLANTS",
+      "category": "WEBSITE DEVOLPMENT",
+      "cover_url": "https://scontent.fcai19-1.fna.fbcdn.net/v/t39.30808-6/482140536_1190982312731022_6979369205051621311_n.jpg?stp=dst-jpg_tt6&cstp=mx640x360&ctp=s640x360&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=uOMTqgDK7oMQ7kNvwGOOBpf&_nc_oc=AdpvXUMR-CNEticUKNA5iKTbkx3MT4Sq7CojsL6ur9gpMRMwGRnHWCFKdyDs04HtyTM&_nc_zt=23&_nc_ht=scontent.fcai19-1.fna&_nc_gid=C-VqJwgUmL1DBDxEPgkM8g&_nc_ss=7a2a8&oh=00_AQAI6OVy0Xehm-x1TBtU4o_3c3UOiYJPpb8qCUVY-QnDfA&oe=6A61A734",
+      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
+      "external_url": "https://dentalcarecorp.com/",
+      "is_active": true,
+      "sort_order": 4
     }
   ],
   "team": [
@@ -79,7 +89,7 @@
     },
     {
       "id": "test_003",
-      "quote": "From the website to the social media direction â every touchpoint felt cohesive, polished, and exactly what we needed to stand out.",
+      "quote": "From the website to the social media direction Ã¢ÂÂ every touchpoint felt cohesive, polished, and exactly what we needed to stand out.",
       "client_name": "Client Name",
       "client_title": "Marketing Director",
       "sort_order": 3,
