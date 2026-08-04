@@ -96,22 +96,6 @@
       "external_url": "https://www.behance.net/gallery/215050477/Coodies-branding",
       "is_active": true,
       "sort_order": 9
-    },
-    {
-      "id": "msf5cphkv6mw",
-      "title": "STORYLINGO -STORY LEARINING APP",
-      "category": "BRANDING PROJECT",
-      "cover_url": "",
-      "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
-      "external_url": "",
-      "embed_url": "<iframe src=\"https://www.behance.net/embed/project/227018097?ilo0=1\" height=\"316\" width=\"404\" allowfullscreen lazyload frameborder=\"0\" allow=\"clipboard-write\" refererPolicy=\"strict-origin-when-cross-origin\"></iframe>",
-      "description": "",
-      "tags": [
-        "design",
-        "marketing"
-      ],
-      "is_active": true,
-      "sort_order": 10
     }
   ],
   "team": [
