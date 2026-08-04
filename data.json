@@ -24,6 +24,9 @@
       "cover_url": "https://unimplant.com/assets/uni-conic-pack-BXQa45aD.png",
       "gradient": "linear-gradient(135deg, #00ABED 0%, #004362 100%)",
       "external_url": "https://unimplant.com/home",
+      "embed_url": "https://unimplant.com/home",
+      "description": "",
+      "tags": [],
       "is_active": true,
       "sort_order": 2
     },
